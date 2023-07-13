@@ -10,6 +10,7 @@ products:
 - blazor
 urlFragment: "blazor-samples"
 ---
+# Look at this great change! Incredible
 # Samples to accompany the official Microsoft Blazor documentation
 
 Samples in this repository accompany the [official Microsoft Blazor documentation](https://docs.microsoft.com/aspnet/core/blazor/).
